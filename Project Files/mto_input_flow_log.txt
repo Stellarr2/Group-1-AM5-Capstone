@@ -1,0 +1,14 @@
+
+[2003-01-01] Sales Order created for : 1 x  @ 0.00
+Planned Order generated from Sales Order SO-964b176f
+Production Order created from Planned Order PL-7917837b
+
+--- Process Summary ---
+Order Date: 2003-01-01
+Sales Order ID: SO-964b176f
+Status: Shipped
+Production Order ID: PO-67c4874c, Confirmed: True
+Delivery Status: In Transit
+Invoice: INV-4f5831a7
+Billing Status: Paid, Amount: 0.00
+--------------------------------------------------
