@@ -1,4 +1,6 @@
-# Group-1-AM5-Capstone
+# STREAMFLOW
+
+Group-1-AM5-Capstone
 Repo for the capstone project
 
 The capstone is a simulation of an SAP Make To Order Production Flow that intends to simulate modules PP and SD. 
